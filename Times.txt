@@ -1,0 +1,23 @@
+FILTR 3
+w1:     0.043736 seconds
+w2:     0.028960 seconds
+w10:    0.051554 seconds
+w20:    0.051009 seconds
+
+FILTER 4
+w1:     0.046011 seconds
+w2:     0.074911 seconds
+w10:    0.082530 seconds
+w20:    0.088477 seconds
+
+FILTER 10
+w1:     0.255443 seconds
+w2:     0.304006 seconds
+w10:    0.508059 seconds
+w20:    0.511799 seconds
+
+FILTER 60
+w1:     9.252683 seconds
+w2:     10.446082 seconds
+w10:    18.426082 seconds
+w20:    18.459785 seconds
