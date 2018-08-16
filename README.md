@@ -1,3 +1,12 @@
+Spis plików:
+ - main.c - program do filtrowania obrazów
+ - filter_generator.c - generator filtru składającego się z x*x liczb zmiennoprzecinkowych sumujących się do 1
+ - Makefile - polecenie make kompiluje i uruchamia program z domyślnymi argumentami
+ - pliki filter.txt - filtry różnych rozmiarów
+ - dragon.ascii.pgm - obraz wejściowy
+ - result.ascii.pmg - przefiltrowant obraz
+ - Times.txt - czasy działania programu w zależności od wielkości filtru i liczby wątków
+
 Filtrowanie obrazów 
 
 Jedną z najprostszych operacji jaką można wykonać na obrazie jest operacja filtrowania (splotu). Operacja ta przyjmuje na wejściu dwie macierze:
